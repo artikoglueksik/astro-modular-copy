@@ -1,5 +1,5 @@
 ---
-title: "Deneme 1"
+title: Deneme 1
 date: 2025-12-25
 description: ""
 tags: []
@@ -9,6 +9,6 @@ imageOG: false
 hideCoverImage: false
 hideTOC: false
 targetKeyword: ""
-draft: true
+draft: false
 ---
 bu bir denemedir
