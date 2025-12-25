@@ -1,0 +1,7 @@
+ignoredBuiltDependencies:
+  - swup
+  - workerd
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
