@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "id": "deneme-1",
+      "type": "post",
+      "title": "Deneme 1",
+      "slug": "deneme-1",
+      "connections": 0
+    },
+    {
       "id": "formatting-reference",
       "type": "post",
       "title": "Formatting Reference",
@@ -119,9 +126,9 @@
     }
   ],
   "metadata": {
-    "totalPosts": 5,
+    "totalPosts": 6,
     "totalConnections": 16,
     "maxNodesApplied": false,
-    "originalNodeCount": 5
+    "originalNodeCount": 6
   }
 }
